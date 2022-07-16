@@ -4,7 +4,8 @@
 - Contoh terminal basic atau basic shell pada windows adalah powershell dan commandpromp (CMD)
 - Command Line merupakan sebutan untuk shell yang berbasis teks 
 - Command Line interface merupakan tampilan dari sebuah terminal yang digunakan untuk menjalankan suatu program, mengelola file, dan berinteraksi dengan komputer.
-![command line interface](commandline.jpg)
+![commandline](https://user-images.githubusercontent.com/64596495/179348397-2ab21c50-7698-41f6-b55c-306125184e6d.JPG)
+
 ### a. Navigation files dan directory
 - pwd digunakan untuk melihat posisi directory terkini  
 - ls digunakan untuk melihat isi files suatu directory 
@@ -33,7 +34,7 @@ mv [namafile] [namafilebaru]
   git config global user.name "chaca" <br />
   git config global user.email chaca.caliza@gmail.com 
 - Melihat hasil konfigurasi dengan git config --list 
-![Config list](configlist.jpg)
+![config list](https://user-images.githubusercontent.com/64596495/179348454-a7b52688-3d93-4f0b-aeb4-394a56447d0c.JPG)
 - Membuat Repository <br />
   git init (dilakukan didalam folder yang dibuat) 
 - git Status digunakan untuk melihat apakah terjadi perubahan atau tidak pada Git 
