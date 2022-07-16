@@ -26,7 +26,7 @@ mv [namafile] [namafilebaru]
 ## Day 2 : Git dan Github 
 - Git merupakan tools dalam memversikan program  
   Git digunakan sebagai version control system serta dapat digunakan untuk melacak segala perubahan pada suatu file atau folder maupun source code 
-- Vendor Git yaitu Github, Gitlab, Bitbucket 
+- Vendor Git yaitu Github, Gitlab, Bitbucket <br />
   Github merupakan vendor git yang paling umum digunakan dan sebagai tempat penyimpanan Git Repository  
   ### Setup Awal GIT
 - Konfigurasi git  
@@ -136,9 +136,9 @@ Closing Tag : `` </p> ``
 	   property : value } 
     ```
 - . (titik) : merupakan selektor yg menuju pada tag html yg memiliki properti kelas
-- CSS comment dapat diberika di external css dan internal css ``/* */ ``
+- CSS comment dapat diberikan di external css dan internal css ``/* */ ``
 - Ada 3 cara menggunakan CSS yaitu : inline tag, internal style dan external style <br />
-Inline Tag : menggunakan css lngsng di atribute elemnt html <br />
+Inline Tag : menggunakan css langsung di atribute elemnt html <br />
 Internal Tag : menggunakan tag style di bagian head <br />
 External Tag : menggunakan file css terpisah dengan html
 - Properti CSS contohnya yaitu font-size, color, background-color
@@ -179,14 +179,14 @@ Tag Id bersifat kaku karena hanya memiliki 1 nilai
 - Algoritma adalah deskripsi berupa step-step yang dibutuhkan untuk mnyelesaikan suatu masalah
 - Algoritma berfungsi untuk menyelesaikan masalah secara runut
 - Kualitas suatu algoritma :
-  - Input & output harus jelas/ didefinisikan terlebih dahulu dgn tepat
+  - Input & output harus jelas atau harus didefinisikan terlebih dahulu dengan tepat
   - Setiap step harus benar -benar clear dan tidak ambigu
-  - Algoritma seharusnya tidak mengandung suatu code pada bahas pemrograman tertentu. <br />
-    algoritma harus dibuat agar dapat digunakan dlm bahas pemrograman apapun
+  - Algoritma seharusnya tidak mengandung suatu code pada bahasa pemrograman tertentu. <br />
+    algoritma harus dibuat agar dapat digunakan dalam bahasa pemrograman apapun
 - Kenapa harus mempelajari algotima :
   - Pemrograman merupakn algoritma dan struktur data
   - Data struktur dgunakan untk mngelola sebuah data
-  - Algoritma menyelesaikan suatu permsalahan mnggunakn sbuah data trsbut
+  - Algoritma menyelesaikan suatu permsalahan menggunakn sebuah data tersebut
 - Contoh Algoritma 
 ```
 Input 1 = 10
