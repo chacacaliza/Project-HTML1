@@ -8,14 +8,13 @@
 
 ### a. Navigation files dan directory
 - pwd digunakan untuk melihat posisi directory terkini  
-- ls digunakan untuk melihat isi files suatu directory 
+- ls digunakan untuk melihat isi files suatu directory <br />
   ls - la untuk melihat isi files yang dihidden 
 - cd merupakan command untuk berpindah directory 
 - mkdir digunakan untuk membuat directory baru
 ### b. File Manipulation
 - Touch (namafile) digunakan untuk membuat file pada terminal basic di linux 
-- ni digunakan untuk membuat file di windows 
-- mkdir merupakan command untuk membuat directory baru  
+- ni digunakan untuk membuat file di windows  
 - cp digunakan untuk menyalin file 
 - cp -r digunakan untuk menyalin directory 
 - mv digunakan untuk memindahkan atau mengubah nama file dan directory  
