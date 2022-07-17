@@ -117,7 +117,7 @@ Closing Tag : `` </p> ``
 
   <article>
     <h1>Welcome To My Blog!</h1>
-    <p>Perkenalkan nama saya Ulfa Zakiatul Mardhiah. Biasa dipanggil chaca. Saat ini aku tenggah menempuh semester 8 di Universitas Muhammadiyah Malang. 
+    <p>Perkenalkan nama saya Ulfa Zakiatul Mardhiah. Biasa dipanggil chaca!
     </p>
   </article>
 
