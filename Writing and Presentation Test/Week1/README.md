@@ -10,7 +10,8 @@
 - pwd digunakan untuk melihat posisi directory terkini  
 - ls digunakan untuk melihat isi files suatu directory <br />
   ls - la untuk melihat isi files yang dihidden 
-- cd merupakan command untuk berpindah directory 
+- cd command untuk masuk ke directory tertentu
+- cd .. merupakan command untuk berpindah directory 
 - mkdir digunakan untuk membuat directory baru
 ### b. File Manipulation
 - Touch (namafile) digunakan untuk membuat file pada terminal basic di linux 
@@ -21,6 +22,7 @@
 mv [namafile] [namafilebaru]
 - rm merupakan command untuk menghapus files 
 - rm -r digunakan untuk menghapus directory 
+-  clear untuk menghapus seluruh command 
  
 
 ## Day 2 : Git dan Github 
