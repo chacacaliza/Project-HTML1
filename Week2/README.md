@@ -187,7 +187,7 @@ Menentukan suatu variabel apakah bisa diakses pada scope atau tidak.
 - contoh local scope :
 ```
     function contohWarna{
-    let warna = 'Merah';
+    var warna = 'Merah';
     console.log(warna)
     }
     contohWarna()
