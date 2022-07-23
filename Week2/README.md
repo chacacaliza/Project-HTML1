@@ -179,14 +179,35 @@ Menentukan suatu variabel apakah bisa diakses pada scope atau tidak.
 - contoh global scope :
 ```
     let myName = "chaca" ; 
-    function greeting()
+    function greeting(){
         return myName;
-    {
+    }
         console.log(myName);
 ```
 - contoh local scope :
+```
+    function contohWarna{
+    let warna = 'Merah';
+    console.log(warna)
+    }
+    contohWarna()
+ ```
 
 - **Blocks** merupakan code yang berada dalam curly braces {}. Conditional, function dan looping menggunakan blocks.
+- Contoh Block :
+```
+    function test() {
+ 
+    let y = 100
+        console.log('nilai local y: ',y)
+ 
+    if(y > 99) {
+       let y = 1000
+       console.log('nilai block y: ', y)
+         }
+    }
+    test()
+  ```
 
 - **Function**
 - **Function** adalah sebuah code blok dalam sebuah grup untuk menyelesaikan 1 task
