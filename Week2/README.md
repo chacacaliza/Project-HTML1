@@ -249,7 +249,7 @@ function calculateArea(width,height){
 - Short Syntax Function
 - **Single Line Block** 
 - ``const sumNumbers = number => number + number ; ``
-- **Multi Line Block
+- **Multi Line Block**
 ```
   const sumNumbers = number => {
     const sum = number + number;
