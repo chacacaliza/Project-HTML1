@@ -311,10 +311,10 @@ function calculateArea(width,height){
   - Bisa ada beberapa event listener yang sama untuk 1 element
   - Memiliki argument tambahan {options}
 - Contoh EventListener :
-  - EventListener - Click 
+  - EventListener - Click  <br />
     `` <input id="user-input"/> `` <br />
     `` <button id="alert-button">show</button> `` <br />
-    Memanggil element berdasarkan id
+    Memanggil element berdasarkan id <br />
     `` const input = document.getElementById("user-input") `` <br />
     `` const button = dosument.getElementById("alert-button") ``
 
