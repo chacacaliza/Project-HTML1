@@ -257,7 +257,19 @@ function calculateArea(width,height){
   }
 ```
 
-### Data Type
+### **Data Type**
+- Tipe data pada JavaScript terdiri atas *primitive values* dan *non primitive*
+- *Primitive Value*
+  - Boolean type
+  - Null type
+  - Undefined type
+  - Number type
+  - BigInt type
+  - String type
+  - Symbol type
+- *Non Primitive*
+  - Object
+  - Array
 
 ### **DOM HTML**
 - DOM merupakan cara memanipulasi html agar website lebih dinamis dan interaktif
