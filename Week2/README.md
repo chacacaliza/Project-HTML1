@@ -224,7 +224,7 @@ Menentukan suatu variabel apakah bisa diakses pada scope atau tidak.
  
  ```
 - **Argumen dan Parameter**
-- Argumen adalah nilai yang digunakan daat memanggil function. Jumlah argumen harus sama dengan jumlah parameternya. <br />
+- Argumen adalah nilai yang digunakan saat memanggil function. Jumlah argumen harus sama dengan jumlah parameternya. <br />
 - contoh argumen :
 ```
   function penambahan(a,b){
@@ -299,7 +299,7 @@ function calculateArea(width,height){
   <div id ="header"></div>
 
   //untuk membuat sebuah elemnt heading
-  const heading = dosument.createElement("h1)
+  const heading = dosument.createElement("h1")
   heading.textContent = "Ini Heading"
 
   document.getElemntByID("header").appendChild(heading)
@@ -328,7 +328,7 @@ function calculateArea(width,height){
     `` <button id="alert-button">show</button> `` <br />
     Memanggil element berdasarkan id <br />
     `` const input = document.getElementById("user-input") `` <br />
-    `` const button = dosument.getElementById("alert-button") ``
+    `` const button = document.getElementById("alert-button") ``
 
     ```
      button.addEventListener("click", function()) {
